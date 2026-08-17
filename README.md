@@ -29,7 +29,7 @@ Para simplificar o desenvolvimento do MVP, os dados são armazenados temporariam
 ## 3. Estrutura do projeto
 
 ```text
-api-usuarios/
+api-connect/
 │
 ├── app/
 │   ├── __init__.py
@@ -102,7 +102,7 @@ git clone URL_DO_REPOSITORIO
 Depois:
 
 ```bash
-cd api-usuarios
+cd api-connect
 ```
 
 ## 5. Criar o ambiente virtual
